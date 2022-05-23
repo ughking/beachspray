@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- flevix.com  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
+
+<circle opacity="10" fill="none" stroke="#00000" stroke-width="1" stroke-miterlimit="1" cx="30.911" cy="80.481" r="28.329">
+	<animate attributeName="opacity" values="0;.8;0" begin=".4" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle opacity="10" fill="none" stroke="#216aa5" stroke-width="7" stroke-miterlimit="10" cx="45.911" cy="30.481" r="15.19">
+	<animate attributeName="opacity" values="0;.9;0" begin=".2" dur="4s" repeatCount="indefinite" />
+</circle>
+<circle opacity="10" fill="none" stroke="#205a89" stroke-width="1" stroke-miterlimit="10" cx="70.911" cy="70.481" r="10.063">
+	<animate attributeName="opacity" values="0;1;0" begin="0" dur="1s" repeatCount="indefinite" />
+</circle>
+<circle opacity="10" fill="none" stroke="#205a89" stroke-width="3" stroke-miterlimit="10" cx="70.911" cy="90.481" r="24.063">
+	<animate attributeName="opacity" values="0;1;0" begin="0" dur="2s" repeatCount="indefinite" />
+</circle>
+<circle opacity="10" fill="none" stroke="#205a89" stroke-width="4" stroke-miterlimit="10" cx="70.911" cy="25.481" r="8.063">
+	<animate attributeName="opacity" values="0;1;0" begin="0" dur="3s" repeatCount="indefinite" />
+</circle>
+<circle opacity="10" fill="none" stroke="#205a89" stroke-width="2" stroke-miterlimit="10" cx="37.911" cy="60.481" r="35.063">
+	<animate attributeName="opacity" values="0;1;0" begin="0" dur="6s" repeatCount="indefinite" />
+</circle>
+<circle opacity="10" fill="none" stroke="#1e4b70" stroke-width="10" stroke-miterlimit="10" cx="90.911" cy="65.481" r="30.975">
+	<animate attributeName="opacity" values="0;.5;0" begin=".6" dur="6s" repeatCount="indefinite" />
+</circle>
+</svg>
